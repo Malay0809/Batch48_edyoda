@@ -13,4 +13,4 @@ Observation 2:Logs of the pod were deleted, IP of the pod changed, No issues wit
 ---------------------------
 Observation 1: The number of voters was reset to zero, Though the app was still working as usual
 Observation 2: Voters data was deleted
-Observation 3: The Result pod and worker pod were deleted 1 times each
+Observation 3: The Result pod and worker pod were restarted 1 times each
