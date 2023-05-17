@@ -2,12 +2,12 @@ Voting App Assignment
 1: When VOTE pod was deleted
 -----------------------------
 Observation 1: No change found in User experiance (i.e., Front End )
-Observation 2: Logs of the pod were deleted, IP of the pod changed, No issues with working of app
+Observation 2: Logs of the pod were deleted, IP of the pod changed, No impact on working of app
 
 2: When WORKER pod was deleted
 ------------------------------
 Observation 1:No change found is user experiance
-Observation 2:Logs of the pod were deleted, IP of the pod changed, No issues with working of app
+Observation 2:Logs of the pod were deleted, IP of the pod changed, No impact on  working of app
 
 3:when DB pod was deleted
 ---------------------------
